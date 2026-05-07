@@ -94,8 +94,8 @@ I enjoy solving real-world problems with data and continuously improving my anal
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsubeshitonimle&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsubeshitonimle&layout=compact" />
 </p>
 
 ---

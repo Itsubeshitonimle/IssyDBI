@@ -28,8 +28,8 @@ I enjoy solving real-world problems with data and continuously improving my anal
       
 ## 🔭 What I'm Currently Working On 
 
-- **Sales Performance Dashboard:** - Building an interactive Power Bi dashboard to track KPIs, revenue trends and regional performance.  
-- **Customer Analytics Project:** - Analyzing customer behavior and segmentation using SQL to improve retention strategies.
+- ** 📊 Sales Performance Dashboard:** - Building an interactive Power Bi dashboard to track KPIs, revenue trends and regional performance.  
+- ** 📈 Customer Analytics Project:** - Analyzing customer behavior and segmentation using SQL to improve retention strategies.
 - **Process Automation:** - Automating data cleaning and reporting workflows using python to reduce manual effort and improve efficiency.
 
 ## 🌱 Currently Learning 
@@ -42,7 +42,7 @@ I enjoy solving real-world problems with data and continuously improving my anal
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### 📊 Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
@@ -72,5 +72,48 @@ I enjoy solving real-world problems with data and continuously improving my anal
 - Tableau
 - Microsoft Excel
 
-### Featured Projects
-#### Sales Dashboard
+## 📌 Featured Projects
+
+### 📊 Sales Dashboard (Power BI)
+- Built an interactive dashboard to track revenue, KPIs, and trends
+- Improved data visibility for decision-making
+- Tools: Power BI, Excel
+
+### 📈 Customer Segmentation Analysis
+- Performed customer segmentation using Python
+- Identified key customer groups and behavioral patterns
+- Tools: Python, Pandas, Matplotlib
+
+### ⚙️ Data Cleaning Automation
+- Automated repetitive data cleaning tasks
+- Reduced manual processing time significantly
+- Tools: Python, Excel
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+</p>
+
+---
+
+## 💡 What I Bring
+
+- Strong analytical thinking and problem-solving skills  
+- Ability to turn raw data into business insights  
+- Experience building dashboards that drive decisions  
+- Continuous learning and growth mindset  
+
+---
+
+## 📬 Let's Work Together
+
+I'm open to:
+- Data Analyst roles (Entry-level / Junior)
+- Freelance data projects
+- Collaboration on data-driven solutions
+
+📩 Reach out via email or LinkedIn — let’s build something impactful.

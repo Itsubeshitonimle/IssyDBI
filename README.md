@@ -17,20 +17,32 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with a strong passion for helping businesses make informed decisions through data. I specialize in transforming complex and unstructured datasets into clear, meaningful insights that drive performance and growth.
-
+Isaiah Itsu — Data Analyst | SQL | Machine Learning
+I turn data into insights, decisions, and real-world impact.
+Background in Economics with hands-on experience in SQL analysis, machine learning, and business problem-solving.
 My expertise includes building intuitive dashboards, automating repetitive processes and uncover trends that support strategic decion-making.
-
 I enjoy solving real-world problems with data and continuously improving my analytical and technical skills.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://itsubeshitonimle.github.io/)
+
+🧠 What I Do
+- Analyze data using SQL & Python
+- Build machine learning models for prediction
+- Create dashboards for business insights
+- Translate data into actionable decisions
       
 ## 🔭 What I'm Currently Working On 
 
 - ** 📊 Sales Performance Dashboard:** - Building an interactive Power Bi dashboard to track KPIs, revenue trends and regional performance.  
 - ** 📈 Customer Analytics Project:** - Analyzing customer behavior and segmentation using SQL to improve retention strategies.
 - **Process Automation:** - Automating data cleaning and reporting workflows using python to reduce manual effort and improve efficiency.
+
+🛠 Tech Stack
+Languages: SQL, Python
+Libraries: Pandas, Scikit-learn, Matplotlib
+Tools: Jupyter Notebook, Excel, Power BI
+Other: Data Cleaning, EDA, Feature Analysis
 
 ## 🌱 Currently Learning 
 
@@ -73,6 +85,11 @@ I enjoy solving real-world problems with data and continuously improving my anal
 - Microsoft Excel
 
 ## 📌 Featured Projects
+
+### 🔍 Phishing Website Detection (SQL + ML)
+- Analyzed 11,000+ website records to identify phishing patterns
+- Built a Random Forest model to classify malicious websites
+- Discovered key indicators like SSL status, URL structure, and traffic behavior
 
 ### 📊 Sales Dashboard (Power BI)
 - Built an interactive dashboard to track revenue, KPIs, and trends

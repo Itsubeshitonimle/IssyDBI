@@ -17,7 +17,7 @@
 </p>
 
 ## 🚀 About Me 
-Data Analyst | SQL | Machine Learning
+Data Analyst | Software Developer | SQL | Python
 
 I turn data into insights, decisions, and real-world impact. Background in Economics with hands-on experience in SQL analysis, machine learning, and business problem-solving.
 My expertise includes building intuitive dashboards, automating repetitive processes and uncover trends that support strategic decion-making.

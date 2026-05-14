@@ -17,9 +17,9 @@
 </p>
 
 ## 🚀 About Me 
-Isaiah Itsu — Data Analyst | SQL | Machine Learning
-I turn data into insights, decisions, and real-world impact.
-Background in Economics with hands-on experience in SQL analysis, machine learning, and business problem-solving.
+Data Analyst | SQL | Machine Learning
+
+I turn data into insights, decisions, and real-world impact. Background in Economics with hands-on experience in SQL analysis, machine learning, and business problem-solving.
 My expertise includes building intuitive dashboards, automating repetitive processes and uncover trends that support strategic decion-making.
 I enjoy solving real-world problems with data and continuously improving my analytical and technical skills.
 
